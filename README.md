@@ -1,4 +1,4 @@
-# perth-housing-market-dashboard
+# Perth Housing Market Dashboard
 Interactive dashboard analysing property prices, land size, and housing trends across suburbs in Perth.
 
 ## Tools

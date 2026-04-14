@@ -13,7 +13,6 @@ Microsoft Excel, Data Analysis, Dashboard Design
 
 ## Key Insights
 - Applecross has the highest average property prices among the suburbs analysed.
-- Alkimos shows significantly larger land areas compared to other suburbs.
 - Property prices increase with the number of bathrooms and overall property size.
 - Larger land areas generally correlate with higher property prices.
 

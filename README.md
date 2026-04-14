@@ -19,7 +19,7 @@ Microsoft Excel, Data Analysis, Dashboard Design
 
 ## Dashboard
 
-![Perth Housing Market Dashboard](perth_housing_dashboard.png)
+![Perth Housing Market Dashboard](perth_housing_market_dashboard.png)
 
 ## Outcome
 This dashboard provides a quick overview of housing trends across Perth suburbs and helps identify how property features influence market prices.
